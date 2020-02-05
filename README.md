@@ -16,4 +16,4 @@
         implementation 'com.github.lichangbin008:GodRefreshLayout:V1.0.0'
 	}
 
-~~~JAVA
+~~~
